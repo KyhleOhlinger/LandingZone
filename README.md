@@ -4,7 +4,7 @@ This page serves as a homepage for my GitHub account. It contains basic informat
 
 ## My Basic Information
 
-As per my LinkedIn account, I am currently an Information Security Consultant at F-Secure (formerly MWR InfoSecurity). While working for F-Secure, I have managed to obtain my OSCP, CPSA, CRT, and SSCP accreditations.
+As per my LinkedIn account, I am currently an Information Security Consultant at F-Secure (formerly MWR InfoSecurity). I enjoy gaming, martial arts, and CTFs.
 
 ## Follow Me
 
